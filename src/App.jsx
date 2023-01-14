@@ -8,6 +8,7 @@ const App = () => {
         //  React Fragment <React.Fragment> </React.Fragment> 
       <div className="app"> 
         <h4>TIC TAC TOE</h4>
+        <h2>Message</h2>
         <Board />
       </div>
     );
